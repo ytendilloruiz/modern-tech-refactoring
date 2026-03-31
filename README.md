@@ -1,5 +1,3 @@
-# modern-tech-refactoring
-
 # 🚀 Mi Viaje de Modernización Tech
 
 ¡Hola! Soy programadora y este es mi rincón para documentar mi salto de tecnologías "legacy" a estándares modernos.
