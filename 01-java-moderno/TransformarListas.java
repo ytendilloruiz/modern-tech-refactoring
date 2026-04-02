@@ -29,7 +29,7 @@ ciudades.stream()
 String resultado = encontrada.orElse("No hay ciudades con V");
 // String resultado = encontrada.orElseThrow(() -> new RuntimeException("¡Falta la ciudad!"));
 
-// Ejercicio finale
+// Ejercicio final
 
 List<String> numerosSucios = Arrays.asList("10", "20", "cinco", "30", "40");
 
